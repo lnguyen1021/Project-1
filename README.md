@@ -24,7 +24,7 @@ In other words, write down what kind of data you plan to work with, and what kin
 
 > Our project is to uncover patterns in criminal activity around Los Angeles. We'll examine relationships between types of crime and location; crime rates and times of day; trends in crime rates over the course of the year; and related questions, as the data admits.
 
-## Finding Data
+### Finding Data
 
 Once your group has written an outline, it's time to start hunting for data. You are free to use data from any source, but we recommend the following curated sources of high-quality data:
 
