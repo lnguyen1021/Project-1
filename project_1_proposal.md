@@ -4,6 +4,12 @@ For this project, our team examing whether or not school districts with higher b
 
 We are excluding private and charter schools.
 
+Hypothesis
+School districts with larger budgets will have students with higher test scores
+
+Null Hypothesis
+School district budget does not affect student test scores
+
 Sources of data:
 SAT/ACT datasets
 https://gosa.georgia.gov/downloadable-data
