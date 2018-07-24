@@ -14,7 +14,7 @@ Sources of data:
 SAT/ACT datasets
 https://gosa.georgia.gov/downloadable-data
 Financial dataset
-https://www.kaggle.com/noriuk/us-educational-finances
+https://app.doe.k12.ga.us/ows-bin/owa/fin_pack_revenue.entry_form
 
 
 Data types:
